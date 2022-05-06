@@ -1,11 +1,11 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
+<img width="99.9%" src="https://i.ibb.co/f22DG7z/Screenshot-2022-04-20-12-20-48-63-1c337646f29875672b5a61192b9010f9.jpg"/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.1-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/AUTHOR-%F0%9F%85%A4%F0%9D%9A%97%F0%9D%9A%94%F0%9D%9A%97%F0%9D%9A%98%F0%9D%9A%A0%F0%9D%9A%97%20%F0%9F%85%97%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8Er%E0%BF%90-orange"></a>
 
 </p>
 
