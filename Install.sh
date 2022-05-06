@@ -23,7 +23,7 @@ pip install requests
 pip2 install requests
 cd
 cd
-cd AllHackingTools
+cd All-In-One-Hacking-Tools
 python2 src/InstallMenu.py
 else
 echo ""
