@@ -87,7 +87,7 @@ cd All-In-One-Hacking-Tools
 bash Install.sh
 ```
 
-**if the error and the command does not work: cd AllHackingTools && bash fix.sh**
+**if the error and the command does not work: cd All-In-One-Hacking-Hacking-Tools && bash fix.sh**
 
 **And when he writes a big rainbow button: 
 Done, everything is ready! Wait until you can write to the terminal.**
