@@ -5,25 +5,25 @@
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/AUTHOR-%F0%9F%85%A4%F0%9D%9A%97%F0%9D%9A%94%F0%9D%9A%97%F0%9D%9A%98%F0%9D%9A%A0%F0%9D%9A%97%20%F0%9F%85%97%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8Er%E0%BF%90-orange"></a>
+<a href="https://github.com/HackerX7355"><img title="Autor" src="https://img.shields.io/badge/AUTHOR-%F0%9F%85%A4%F0%9D%9A%97%F0%9D%9A%94%F0%9D%9A%97%F0%9D%9A%98%F0%9D%9A%A0%F0%9D%9A%97%20%F0%9F%85%97%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%F0%9D%9A%8Er%E0%BF%90-orange"></a>
 
 </p>
 
 <p align="center">
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/HackerX7355/All-In-One-Hacking-Tools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/HackerX7355/All-In-One-Hacking-Tools/issues">Issues</a> 
+• <a href="https://github.com/HackerX7355/All-In-One-Hacking-Tools/projects">Project</a> 
+• <a href="https://github.com/HackerX7355/All-In-One-Hacking-Tools/wiki">Wikipedia</a> •
 
 </p>
 
-> AllHackingTools: is a system designed to automate the download process and install various tools for penetration testing.
+> All-In-One-Hacking-Tools: is a system designed to automate the download process and install various tools for penetration testing.
 
 ---------------------
 
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/HackerX7355/All-In-One-Hacking-Tools/blob/main/LICENSE).
 
 ---------
 ## Supported systems
@@ -34,7 +34,7 @@
 **Here on these systems works AllHackingTools** <br>
 ## Tool tested on:
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HackerX7355"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
@@ -78,10 +78,10 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/HackerX7355/All-In-One-Hacking-Tools
 
 #cd to directory allhackingtools
-cd AllHackingTools
+cd All-In-One-Hacking-Tools
 
 #Start script to install system
 bash Install.sh
